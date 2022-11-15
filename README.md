@@ -14,8 +14,6 @@
 >**important!** Important! all projects are written for use with Java 1.8<br/>
 > the project can and will be updated with new useful features.<br/>
 ## Description
-<img src="https://imgur.com/a/EuZqYNS" alt="Java">
-
 
 This project is part of the training at school 42 (individual), the purpose of which is to get acquainted with the terrible and wonderful Java. 
 During the 14 days provided for the project, both the basics of OOP, Java, and working with databases (using the example of Postgresql), working with input streams, and the Maven automatic project collector will be studied. 
